@@ -8,4 +8,4 @@ You can watch it [right here](https://dstassk.github.io/First-day-on-GitHub/)
 
 - one frame
 - two animations
-- sprite picture 
+- sprite picture

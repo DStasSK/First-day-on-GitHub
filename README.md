@@ -4,8 +4,13 @@ This is my little animated work.
 
 You can watch it [right here](https://dstassk.github.io/First-day-on-GitHub/)
 
-#### in my work I used
+---
+## Первый день на GitHub
 
-- one frame
-- two animations
-- sprite picture
+<br>
+
+Простенькая [анимация](https://dstassk.github.io/First-day-on-GitHub/) небольшого просветления сознания :-)
+
+- один фрейм
+- две короткие анимации
+- спрайт-картинка
